@@ -185,7 +185,7 @@ body {
 
 .header {
   color: #fff;
-  background: center/cover no-repeat url("./img/back-ground.png");
+  background: center/cover no-repeat url("https://etherealhero.github.io/daisy_landing/img/back-ground.png");
   height: 100vh;
   padding: 20px 0 28px;
 }
@@ -247,7 +247,7 @@ body {
   color: #adadad;
 }
 .section-expand {
-  background: center/cover no-repeat url(".img/back-ground-2.png");
+  background: center/cover no-repeat url("https://etherealhero.github.io/daisy_landing/img/back-ground-2.png");
   padding: 90px 0 15px;
 }
 .section__btn {
