@@ -185,7 +185,7 @@ body {
 
 .header {
   color: #fff;
-  background: center/cover no-repeat url(./img/back-ground.png);
+  background: center/cover no-repeat url(../img/back-ground.png);
   height: 100vh;
   padding: 20px 0 28px;
 }
